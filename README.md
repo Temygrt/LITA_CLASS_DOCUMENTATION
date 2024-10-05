@@ -2,6 +2,16 @@
 
 ### Project Title:E-commerece Sale Analysis
 [Project Overview](Project Overview)
+Data Cleaning and Preparations
+Data Sources
+
+### Project Overview
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
 
 ### Data Sources
 
